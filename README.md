@@ -26,7 +26,10 @@
 
 [linkedin]: [https://www.linkedin.com/in/fabian-heide-b26359136/]
 
+  
+<!--
 
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
