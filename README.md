@@ -24,7 +24,7 @@
 
 
 
-[linkedin]: [https://www.linkedin.com/in/fabian-heide-b26359136/]
+[linkedin]: https://www.linkedin.com/in/fabian-heide-b26359136/
 
   
 <!--
