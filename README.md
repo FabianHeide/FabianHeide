@@ -1,4 +1,4 @@
-<h1>Hi, I'm Fabian! <br/><a href="https://github.com/FabianHeide">Programmer</a>
+<h1>Hi, I'm Fabian! <br/><a href="https://github.com/FabianHeide">Data Scientist</a>
 
 <h2>👨‍💻 Data Scientist:</h2>
 
