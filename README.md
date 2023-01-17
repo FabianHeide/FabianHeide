@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
+- <b>Human proteins exploratory analysis</b>  
+  
 - <b>loading....</b>
 
 
