@@ -20,6 +20,7 @@
   
 <!--
 
+#other options for profile page
 <h1>Hi, I'm Fabian! <br/><a href="https://github.com/FabianHeide">Data Analyst - Data Scientist</a>  
 Here are some ideas to get you started:
 
