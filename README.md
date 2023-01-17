@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=32&duration=2000&pause=0&color=000000FF&multiline=true&repeat=false&width=700&height=100&lines=Fabian+Heide+;Biochemist+and+Data+Analyst" alt="Typing SVG" /></a>
 
-<h2>👨‍💻 Data Science Projects:</h2>
+<h2> :test_tube: Data Science Projects:</h2>
 
 - <b><a href="https://github.com/FabianHeide/XRD_protein_analysis">Human proteasome exploratory analysis</a></b>  
   
