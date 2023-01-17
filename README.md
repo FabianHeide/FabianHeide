@@ -13,11 +13,12 @@
 [<img align="left" alt="FabianHeide | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="FabianHeide | ResearchGate" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/researchgate.svg" />][researchgate]
 [<img align="left" alt="FabianHeide | OrcID" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/orcid.svg" />][orcid]
-[<img align="left" alt="FabianHeide | OrcID" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/orcid.svg" />][orcid]
+[<img align="left" alt="FabianHeide | OrcID" width="26px" src="https://github.com/FabianHeide/background_data/blob/main/cos-shield.png" />][osf]
 
 [researchgate]: https://www.researchgate.net/profile/Fabian-Heide
 [linkedin]: https://www.linkedin.com/in/fabian-heide-b26359136/
 [orcid]: https://orcid.org/0000-0002-6849-3177
+[osf]: https://osf.io/3sbw9/
   
 <!--
 
