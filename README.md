@@ -1,4 +1,4 @@
-<h1>Hi, I'm Fabian! <br/><a href="https://github.com/FabianHeide">Data Analyst - Data Scientist</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=32&duration=2000&pause=0&color=000000FF&multiline=true&repeat=false&width=700&height=100&lines=Fabian+Heide+;Biochemist+and+Data+Analyst" alt="Typing SVG" /></a>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
@@ -20,7 +20,7 @@
   
 <!--
 
-  
+<h1>Hi, I'm Fabian! <br/><a href="https://github.com/FabianHeide">Data Analyst - Data Scientist</a>  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
