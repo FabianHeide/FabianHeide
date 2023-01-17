@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Human proteins exploratory analysis</b>  
+- <b><a href="https://github.com/FabianHeide/XRD_protein_analysis">Human proteins exploratory analysis</a></b>  
   
 - <b>loading....</b>
 
