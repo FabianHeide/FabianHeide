@@ -16,7 +16,7 @@
 [<img align="left" alt="FabianHeide | OrcID" width="26px" src="https://github.com/FabianHeide/background_data/blob/main/cos-shield.png" />][osf]
 
 [researchgate]: https://www.researchgate.net/profile/Fabian-Heide
-[linkedin]: https://www.linkedin.com/in/fabian-heide-b26359136/
+[linkedin]: https://www.linkedin.com/in/fabian-heide
 [orcid]: https://orcid.org/0000-0002-6849-3177
 [osf]: https://osf.io/3sbw9/
   
