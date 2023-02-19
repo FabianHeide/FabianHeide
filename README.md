@@ -3,6 +3,8 @@
 <h2> :test_tube: Data Science Projects:</h2>
 
 - <b><a href="https://github.com/FabianHeide/XRD_protein_analysis">Human proteasome exploratory analysis</a></b>  
+
+- <b><a href="https://github.com/FabianHeide/MMP9_drug_discovery">MMP9 drug discovery</a></b> 
   
 
 - <b>loading....</b>
